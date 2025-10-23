@@ -1,3 +1,3 @@
-Mi primer repositro
+Mi primer repositorio
 Segunda linea
 Tercera Linea
